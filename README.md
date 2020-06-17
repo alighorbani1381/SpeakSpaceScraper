@@ -1,3 +1,6 @@
+> :warning: This Program & It's File Don't Complete
+
+
 # Where did the story begin?
 I Always Love Stars & Galaxy .
 sometimes i think about the important Question About Univers or position our planet into universe.
