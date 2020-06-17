@@ -1,0 +1,30 @@
+body {
+			font-family: IRANSANSWEB;
+		}
+
+		.card {
+			margin: 22px 0;
+			box-shadow: 1px -1px 10px 0px #ddd;
+		}
+
+		.card-header {
+			direction: rtl !important;
+			text-align: right;
+		}
+
+		.card-text {
+			text-align: justify;
+			line-height: 32px;
+		}
+
+		.rtl {
+			direction: rtl;
+			text-align: right;
+			unicode-bidi: bidi-override;
+		}
+
+		.ltr {
+			direction: ltr;
+			text-align: left;
+			unicode-bidi: bidi-override;
+		}
