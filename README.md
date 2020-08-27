@@ -16,7 +16,7 @@ I finded a website for send message into space it's name is (space speak)
 fasterly I created an account and
 i sended several message into space.
 
-then i researched about 
+then i research about 
 how to sended that messages to space?
 
 in another day
@@ -26,7 +26,7 @@ for this work you must search random a url like this
 
 https://spacespeak.com/Users/28128/Messages
 
-when you changed number from this url you can saw another user and then you can saw sended message from this user.
+when you changed number from this url you can saw another user and it's sended message from this user.
 
 
 I found searchbox in the top menu of this web site and
@@ -45,3 +45,4 @@ i was curious about  know people what's message to send  into space ?
 
 # SpeakSpaceScraper
 With This Web app you can scraping into speakspace site
+and know people what's send into space it's fun!
