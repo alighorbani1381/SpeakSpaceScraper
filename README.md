@@ -24,7 +24,7 @@ i saw you can see sended message into space from other users
 
 for this work you must search random a url like this
 
-https://spacespeak.com/Users/28401/Messages
+https://spacespeak.com/Users/28128/Messages
 
 when you changed number from this url you can saw another user and then you can saw sended message from this user.
 
